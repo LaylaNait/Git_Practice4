@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("Hello World");
 
         System.out.println("B25 learning in github");
+        System.out.println("good job ");
     }
 }
